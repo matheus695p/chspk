@@ -4,6 +4,9 @@
 
 Repositorio para hacer el desafío de la empresa Spike.
 
+Link al desafío:
+[Desafio](https://github.com/matheus695p/chspk/blob/master/documents/Spike_Challenge_precios.pdf)
+
 
 ## Jupyter Notebook que tiene las respuestas al desafío:
 
