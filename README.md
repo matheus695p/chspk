@@ -5,21 +5,17 @@
 Repositorio para hacer el desafío de la empresa Spike.
 
 
-## Jupyter Notebook que tiene el desafío
+## Jupyter Notebook que tiene las respuestas al desafío:
 
 [Notebook](https://github.com/matheus695p/chspk/blob/master/main.ipynb)
-
 
 ## Setup ambiente
 
 ```sh
-$ git clone https://github.com/matheus695p/challenge.git
-$ cd challenge
-$ echo instalar los requirements
+$ git clone https://github.com/matheus695p/chspk.git
+$ cd chspk
 $ pip install -r requirements.txt
 ```
-
-
 
 ## Arbol del desafío
 
